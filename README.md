@@ -1,11 +1,14 @@
 # PrudentailAssignment
-Ⅰ Prepare
+##Ⅰ Prepare Enviroment
 1. code Editor : Visual Studio Code (or other you like)
 2. Install Python 3.10+
 3. pip install selenium (version:  4.4.3)
+4. Extract "HTMLTestRunner.rar"  file on ./toos/, add to  python install path:  .\Python\Lib
+5. Download webDriver for different browser with version , add to python install path .\Python
+   Chrome -> Chromedriver :  http://chromedriver.storage.googleapis.com/index.html
+   Edge -> Edgedriver : https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 
-
-Ⅱ get start
+## Ⅱ get start
 1. Get code: 
    git clone https://github.com/EheJie/PrudentailAssignment.git
 2. User Guide:  UesrGuide.xls
