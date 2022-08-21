@@ -1,5 +1,4 @@
 # coding:utf-8
-import copy
 import os
 import unittest
 import time
@@ -20,9 +19,6 @@ def load_test_case(ScriptPath):
             for case in cases:
                 test_suite.addTest(case)
     return test_suite
-
-
-
 
 def run_tests():
     try:        
